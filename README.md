@@ -1,7 +1,8 @@
 # Bienvenue sur mon GitHub! 👋
 
 Je suis Anthony Rolland, étudiant en 1ère année de cycle ingénieur en informatique et cybersécurité à l’INSA Hauts-De-France. 
-À la rentrée 2025, j’intègre l’INSA en école d’ingénieur informatique et cybersécurité, et je cherche une alternance pour accompagner cette formation.
+
+Actuellement en alternance développeur back-end chez [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/).
 
 ## 📊 Statistiques GitHub
 
