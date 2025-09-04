@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub! 👋
 
-Je suis Anthony Rolland, étudiant en BUT3 informatique à l’IUT de Lens. 
+Je suis Anthony Rolland, étudiant en 1ère année de cycle ingénieur en informatique et cybersécurité à l’INSA Hauts-De-France. 
 À la rentrée 2025, j’intègre l’INSA en école d’ingénieur informatique et cybersécurité, et je cherche une alternance pour accompagner cette formation.
 
 ## 📊 Statistiques GitHub
