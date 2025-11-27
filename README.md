@@ -1,10 +1,10 @@
-# Bienvenue sur mon GitHub! 👋
+# Welcome on my GitHub! 👋
 
-Je suis Anthony Rolland, étudiant en 1ère année de cycle ingénieur en informatique et cybersécurité à l’INSA Hauts-De-France. 
+My name is Anthony Rolland, and I am a first-year student in the computer science and cybersecurity engineering program at INSA Hauts-De-France. 
 
-Actuellement en alternance développeur back-end chez [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/).
+Currently working (apprenticeship) as a back-end developer at [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/).
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center" >
   <img width="95%" src="https://github-profile-sum-anthor.vercel.app/api/cards/profile-details?username=anthonyroldev&theme=tokyonight" alt="Activité GitHub"/>
@@ -15,19 +15,12 @@ Actuellement en alternance développeur back-end chez [SNCF Connect & Tech](http
   <img height="180em" src="https://github-stats-anthor.vercel.app/api?username=anthonyroldev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block;"/>
 </div>
 
-## 🎯 À propos de moi
+## 🎯 About me
 
-- 🔭 Actuellement étudiant en BUT3 informatique à l'IUT de Lens
-- 🌱 Passionné par l'apprentissage continu et le développement de nouvelles compétences
-- 💻 Développeur en formation avec un intérêt pour le Java et la cyber sécurité
+- 🌱 Passionate about continuous learning and developing new skills
+- 💻 Developer in training with an interest in Java and machine learning
 
-## 🎵 Écouté récemment
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312epzesjopdjeswdfspr7e2ophq"/>
-</div>
-
-## 📫 Me contacter
+## 📫 Contact me
 
 <div align="center">
   <a href="https://www.anthonyrol.me/" target="_blank">
@@ -36,4 +29,10 @@ Actuellement en alternance développeur back-end chez [SNCF Connect & Tech](http
   <a href="https://www.linkedin.com/in/anthony-rolland-info" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+</div>
+
+## 🎵 Recently listened to
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=312epzesjopdjeswdfspr7e2ophq"/>
 </div>
