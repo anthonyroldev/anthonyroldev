@@ -1,8 +1,7 @@
 # Welcome on my GitHub! 👋
 
 My name is Anthony Rolland, and I am a first-year student in the computer science and cybersecurity engineering program at INSA Hauts-De-France. 
-
-Currently working (apprenticeship) as a back-end developer at [SNCF Connect & Tech](https://www.sncf-connect-tech.fr/).
+I'm seeking an **international SWE internship** _(outside France)_ starting **April 2027**, feel free to reach out!
 
 ## 📊 GitHub Stats
 
